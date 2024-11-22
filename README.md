@@ -1,8 +1,9 @@
-# Computer-Infrastructure-2024
+# Computer-Infrastructure-Module Assessment 2024
+
+Computer Infrastructure is one of the modules in the Higher Diploma in Science in Computing in Data Analytics at ATU.
 
 ## Summary of Assignment
 This repository contains my Computer Infrastructure Assessment and Project 2024. It comprised of This repository a series of tasks and a small project.  I commenced work on this module on 3rd October 2024 and completed the work for the deadline of 20th December 2024.
-
 See Here for the [Assignment Insturctions 2024](https://github.com/ianmcloughlin/2425_computer_infrastructure?tab=readme-ov-file#)
 
 ## Liabaries used in this Assignment
@@ -24,7 +25,8 @@ This repository contains the following files:
 + weather.ipynb - Jupyter notebook
 + weather.sh - shell script file
 + workflows folder
-
++ requirements.txt
+ Requirements this file specifies the python packages required to run the code. 
 ## Running the Jupyter Notebook {*1*}
 The Jupyter Notebook App can be launched by clicking on the Jupyter Notebook icon installed by Anaconda in the start menu (Windows) or by typing in a terminal (cmd on Windows):
 
