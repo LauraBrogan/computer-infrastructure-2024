@@ -8,9 +8,9 @@
     # steps:
 #- name: Output Date
 # run:date
+# https://docs.github.com/en/actions/writing-workflows/workflow-syntax-for-github-actions#jobsjob_idstepsrun
 
-
-
+# Laura Brogan 20/12/2024
 
 name: GitHub Actions Demo
 run-name: ${{ github.actor }} is testing out GitHub Actions 🚀

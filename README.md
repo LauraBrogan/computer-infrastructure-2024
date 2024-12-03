@@ -3,7 +3,7 @@
 Computer Infrastructure is one of the modules in the Higher Diploma in Science in Computing in Data Analytics at ATU.
 
 ## Summary of Assignment
-This repository contains my Computer Infrastructure Assessment and Project 2024. It comprised of This repository a series of tasks and a small project.  I commenced work on this module on 3rd October 2024 and completed the work for the deadline of 20th December 2024.
+This repository contains my Computer Infrastructure Assessment and Project 2024. It comprised of This repository which contains a series of tasks and a small project.  I commenced work on this module on 3rd October 2024 and completed the work for the deadline of 20th December 2024.
 See Here for the [Assignment Instructions 2024](https://github.com/ianmcloughlin/2425_computer_infrastructure?tab=readme-ov-file#)
 
 ## Libraries used in this Assignment
