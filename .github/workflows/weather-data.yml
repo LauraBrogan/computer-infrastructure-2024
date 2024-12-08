@@ -23,7 +23,9 @@ jobs:
         git add weather_update.txt
         git commit -m "Update weather data"
         git push
-
+       
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # This is required for pushing changes
 
 
 
