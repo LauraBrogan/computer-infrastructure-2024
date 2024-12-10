@@ -1,3 +1,7 @@
+# This file is important as it indicates python notebooks and scripts are required to run my repository. 
+
 yfinance
+
+# YFINANCE also installs pandas if it's not already there.
 
 # Laura Brogan 20/12/24
