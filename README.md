@@ -41,11 +41,30 @@ Then follow these steps:
 
 Launch the Jupyter Notebook App (see previous section). In the Notebook Dashboard navigate to find the notebook: clicking on its name will open it in a new browser tab. Click on the menu Help -> User Interface Tour for an overview of the Jupyter Notebook App user interface. You can run the notebook document step-by-step (one cell a time) by pressing shift + enter. You can run the whole notebook in a single step by clicking on the menu Cell -> Run All. To restart the kernel (i.e. the computational engine), click on the menu Kernel -> Restart. This can be useful to start over a computation from scratch (e.g. variables are deleted, open files are closed, etc…).
 
+## GitHub Actions Workflow {*2*}
+A workflow is a configurable automated process that will run one or more jobs. Workflows are defined by a YAML file checked in to your repository and will run when triggered by an event in your repository, or they can be triggered manually, or at a defined schedule.
+
+Workflows are defined in the .github/workflows directory in a repository. 
+
+Workflows tell github what I want it to do automatically. 
+opener a verion of linux
+Run at a set time of day
+whet softwear to install
+run my code through the software
+save the results back to my repoistory
+Get notified if there are errors
+
+Results can then be seen in the relevant folder data/weather as .json files.
+
+
+In this repository my workflow is schedule to run at 10am daily, it can also be ran manually through Actions in my respository.
 
 ## References 
 
 Readme References:
 
 1.Running the Jupyter Notebook -  https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html
+
+2.About Workflows -  https://docs.github.com/en/actions/writing-workflows/about-workflows
 
 ***Laura Brogan 20/12/2024***
