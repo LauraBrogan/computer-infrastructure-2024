@@ -13,6 +13,7 @@ permissions:
   
 # These are the tasks to be carried out
 jobs:
+  # Identifying what version of linux virtual machine to run on
   update_weather:
     runs-on: ubuntu-latest
 
@@ -33,8 +34,8 @@ jobs:
         git add .
         git commit -m "New Weather Data"
         git push
-       
+      # When commited it will have the title New Weather Data as the commit message
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # This is required for pushing changes
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # This is required for pushing changes to github
 
 # Laura Brogan 20/12/2024   

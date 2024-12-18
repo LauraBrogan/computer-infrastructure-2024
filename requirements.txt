@@ -1,4 +1,4 @@
-# This file is important as it indicates python notebooks and scripts are required to run my repository. 
+# This file is important as it indicates python notebooks and scripts required to run my repository. 
 
 yfinance
 
