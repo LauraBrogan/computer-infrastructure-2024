@@ -53,8 +53,7 @@ Results can then be seen in the relevant folder data/weather as .json files. Whi
 
 Using the Actions tab within my github repository you can see the log of the workflow runs and you can also manually run the workflow by clicking on "New Weather Update" to the left on this page. 
 
-While completing the workflow it was well tested and on Tuesday 10th December, I was notified via email that there was an error in running the workflow. On investigation and notification from my lecturer it was noted that the error was not with my script or code but it was an issue with the site I was asking github to get the information from that was blocking access.
-
+While completing the workflow it was well tested and on Tuesday 10th December, I was notified via email that there was an error in running the workflow. On investigation and notification from my lecturer it was noted that the error was not with my script or code but it was an issue with the site I was asking github to get the information from that was blocking access.  This provided great insight into what can happen with workflows and some of the issues that you might encounter. 
 
 ## References 
 Readme References:
